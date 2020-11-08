@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-awesome-projects-315da": {
+      "hosting": {
+        "social-app": [
+          "my-awesome-projects-315da"
+        ]
+      }
+    }
+  }
+}
